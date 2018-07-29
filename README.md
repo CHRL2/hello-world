@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository done by completing the tutorial
+Now I am making some changes to practice how branches work and also get the concept behind commits
